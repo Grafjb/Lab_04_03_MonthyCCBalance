@@ -15,3 +15,4 @@ public class Main {
         System.out.println("Interest due after two months: $" + interestTwoMonths);
     }
 }
+
